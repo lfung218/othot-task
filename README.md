@@ -1,1 +1,1 @@
-# othot-task
+# Othot Data Science Internship Task
